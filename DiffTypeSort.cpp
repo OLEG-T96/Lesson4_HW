@@ -133,6 +133,5 @@ int main()
     BubbleSort(Int_Arr,IntMassSize);
     BubbleSort(Double_Arr,DoubleMassSize);
     BubbleSort(str, Str_Length);
-
     return 0;
 }
